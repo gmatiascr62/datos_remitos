@@ -15,6 +15,13 @@
             "iva": "respondanle incspittu",
             "lugar_entrega": "cada",
             "orden_compra": "9"
+        },
+        "": {
+            "nombre": "",
+            "direccion": "",
+            "iva": "",
+            "lugar_entrega": "",
+            "orden_compra": ""
         }
     },
     "remitos": {
