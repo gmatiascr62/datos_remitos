@@ -8,6 +8,13 @@
             "lugar_entrega": "Depósito Central",
             "cuit": "20-12345678-9",
             "orden_compra": "OC-4587"
+        },
+        "20-29818847-6": {
+            "nombre": "mati",
+            "direccion": "138 m 1078",
+            "iva": "respondanle incspittu",
+            "lugar_entrega": "cada",
+            "orden_compra": "9"
         }
     },
     "remitos": {
