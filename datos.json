@@ -1,1 +1,32 @@
 
+{
+  "empresa": {
+    "nombre": "Taller Croce",
+    "rubro": "Tornería",
+    "propietario": "José Antonio Croce",
+    "email": "tallercroce@gmail.com",
+    "cuit": "20-12759849-6",
+    "inicio_actividades": "2012-07-20"
+  },
+
+  "remitos": {
+    "punto_venta": "0001",
+    "ultimo_numero": 234,
+    "formato_numero": "00000000",
+    "fecha_vencimiento": "2026-12-31"
+  },
+
+  "impresion": {
+    "copias": [
+      "Original",
+      "Duplicado"
+    ],
+    "tamano_papel": "A4",
+    "unidad": "mm"
+  },
+
+  "contacto": {
+    "telefono": "",
+    "direccion": ""
+  }
+}
