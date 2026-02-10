@@ -1,39 +1,54 @@
 {
-  "ultimo_remito": 123,
-  "clientes": {
-    "20-12345678-9": {
-      "nombre": "Juan Pérez",
-      "direccion": "Av. Siempre Viva 742",
-      "iva": "Responsable Inscripto",
-      "lugar_entrega": "Depósito Central",
-      "cuit": "20-12345678-9",
-      "orden_compra": "OC-4587"
-    }
-  },
-  "remitos": {
-    "0001-00000123": {
-      "numero": 123,
-      "punto_venta": "0001",
-      "fecha": "2028-04-12",
-      "cliente_cuit": "20-12345678-9",
-      "cliente": {
-        "nombre": "Juan Pérez",
-        "direccion": "Av. Siempre Viva 742",
-        "iva": "Responsable Inscripto",
-        "lugar_entrega": "Depósito Central",
-        "cuit": "20-12345678-9",
-        "orden_compra": "OC-4587"
-      },
-      "items": [
-        {
-          "cantidad": 2,
-          "descripcion": "Eje torneado acero SAE 1045"
-        },
-        {
-          "cantidad": 1,
-          "descripcion": "Buje bronce a medida"
+    "ultimo_remito": 124,
+    "clientes": {
+        "20-12345678-9": {
+            "nombre": "Juan Pérez",
+            "direccion": "Av. Siempre Viva 742",
+            "iva": "Responsable Inscripto",
+            "lugar_entrega": "Depósito Central",
+            "cuit": "20-12345678-9",
+            "orden_compra": "OC-4587"
         }
-      ]
+    },
+    "remitos": {
+        "0001-00000123": {
+            "numero": 123,
+            "punto_venta": "0001",
+            "fecha": "2028-04-12",
+            "cliente_cuit": "20-12345678-9",
+            "cliente": {
+                "nombre": "Juan Pérez",
+                "direccion": "Av. Siempre Viva 742",
+                "iva": "Responsable Inscripto",
+                "lugar_entrega": "Depósito Central",
+                "cuit": "20-12345678-9",
+                "orden_compra": "OC-4587"
+            },
+            "items": [
+                {
+                    "cantidad": 2,
+                    "descripcion": "Eje torneado acero SAE 1045"
+                },
+                {
+                    "cantidad": 1,
+                    "descripcion": "Buje bronce a medida"
+                }
+            ]
+        },
+        "124": {
+            "numero": 124,
+            "fecha": "09/02/2026",
+            "cliente": "20-12345678-9",
+            "items": [
+                {
+                    "cantidad": 1,
+                    "descripcion": "ejecito"
+                },
+                {
+                    "cantidad": 4,
+                    "descripcion": "tornillo"
+                }
+            ]
+        }
     }
-  }
 }
