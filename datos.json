@@ -1,5 +1,5 @@
 {
-    "ultimo_remito": 128,
+    "ultimo_remito": 129,
     "clientes": {
         "20-12345678-9": {
             "nombre": "Juan Pérez",
@@ -114,6 +114,16 @@
                 {
                     "descripcion": "nose",
                     "cantidad": 2
+                }
+            ]
+        },
+        "129": {
+            "fecha": "13/02/2026",
+            "cliente": "20-12345678-9",
+            "items": [
+                {
+                    "descripcion": "uuuuu",
+                    "cantidad": 45
                 }
             ]
         }
