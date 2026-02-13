@@ -1,5 +1,5 @@
 {
-    "ultimo_remito": 126,
+    "ultimo_remito": 127,
     "clientes": {
         "20-12345678-9": {
             "nombre": "Juan Pérez",
@@ -86,6 +86,24 @@
                 {
                     "descripcion": "eje",
                     "cantidad": 2
+                }
+            ]
+        },
+        "127": {
+            "fecha": "13/02/2026",
+            "cliente": "20-29818847-6",
+            "items": [
+                {
+                    "descripcion": "ruedas de tromel",
+                    "cantidad": 2
+                },
+                {
+                    "descripcion": "tornillo de bronce",
+                    "cantidad": 8
+                },
+                {
+                    "descripcion": "ejes",
+                    "cantidad": 24
                 }
             ]
         }
