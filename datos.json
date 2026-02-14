@@ -22,6 +22,12 @@
             "iva": "",
             "lugar_entrega": "",
             "orden_compra": ""
+        },
+        "20-99999999-6": {
+            "nombre": "goolge",
+            "direccion": "eeuu",
+            "iva": "respo",
+            "lugar_entrega": "google"
         }
     },
     "remitos": {
