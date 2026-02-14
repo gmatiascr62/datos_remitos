@@ -6,6 +6,12 @@
             "direccion": "huston",
             "iva": "resp",
             "lugar_entrega": "eeuu"
+        },
+        "34-6777777-8": {
+            "nombre": "tewla",
+            "direccion": "eeuu",
+            "iva": "responsaenel",
+            "lugar_entrega": "tesla inc"
         }
     },
     "remitos": {
