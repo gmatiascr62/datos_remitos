@@ -1,5 +1,5 @@
 {
-    "ultimo_remito": 2,
+    "ultimo_remito": 3,
     "clientes": {
         "20-76778888-7": {
             "nombre": "masa",
@@ -40,6 +40,27 @@
             "transportista": "Jose Antonio Croce",
             "cuit_jose": "20__88282282_8",
             "oc": "7779999"
+        },
+        "3": {
+            "fecha": "13/02/2026",
+            "cliente": "34-6777777-8",
+            "items": [
+                {
+                    "descripcion": "eje re copada",
+                    "cantidad": 34
+                },
+                {
+                    "descripcion": "ruediras",
+                    "cantidad": 2
+                },
+                {
+                    "descripcion": "patiras",
+                    "cantidad": 23
+                }
+            ],
+            "transportista": "Jose Antonio Croce",
+            "cuit_jose": "20__88282282_8",
+            "oc": "77220099"
         }
     }
 }
