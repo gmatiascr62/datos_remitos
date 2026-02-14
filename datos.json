@@ -1,5 +1,5 @@
 {
-    "ultimo_remito": 654,
+    "ultimo_remito": 655,
     "clientes": {
         "20-76778888-7": {
             "nombre": "masa",
@@ -61,6 +61,23 @@
             "transportista": "Jose Antonio Croce",
             "cuit_jose": "20__88282282_8",
             "oc": "77220099"
+        },
+        "655": {
+            "fecha": "13/02/2026",
+            "cliente": "20-76778888-7",
+            "items": [
+                {
+                    "descripcion": "tornillos",
+                    "cantidad": 3
+                },
+                {
+                    "descripcion": "tapones de platsico",
+                    "cantidad": 877
+                }
+            ],
+            "transportista": "Jose Antonio Croce",
+            "cuit_jose": "20__88282282_8",
+            "oc": "76"
         }
     }
 }
