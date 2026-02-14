@@ -1,5 +1,5 @@
 {
-    "ultimo_remito": 655,
+    "ultimo_remito": 656,
     "clientes": {
         "20-76778888-7": {
             "nombre": "masa",
@@ -84,6 +84,27 @@
             "transportista": "Jose Antonio Croce",
             "cuit_jose": "20__88282282_8",
             "oc": "76"
+        },
+        "656": {
+            "fecha": "14/02/2026",
+            "cliente": "29-8777888-9",
+            "items": [
+                {
+                    "descripcion": "ejes",
+                    "cantidad": 2
+                },
+                {
+                    "descripcion": "ruedas",
+                    "cantidad": 4
+                },
+                {
+                    "descripcion": "de acero interiro 6 mm",
+                    "cantidad": ""
+                }
+            ],
+            "transportista": "Jose Antonio Croce",
+            "cuit_jose": "20__88282282_8",
+            "oc": "654"
         }
     }
 }
