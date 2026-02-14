@@ -1,0 +1,12 @@
+{
+    "ultimo_remito": 0,
+    "clientes": {
+        "20-76778888-7": {
+            "nombre": "masa",
+            "direccion": "huston",
+            "iva": "resp",
+            "lugar_entrega": "eeuu"
+        }
+    },
+    "remitos": {}
+}
