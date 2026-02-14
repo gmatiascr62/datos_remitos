@@ -1,5 +1,5 @@
 {
-    "ultimo_remito": 1,
+    "ultimo_remito": 2,
     "clientes": {
         "20-76778888-7": {
             "nombre": "masa",
@@ -21,6 +21,19 @@
             "transportista": "Jose Antonio Croce",
             "cuit_jose": "20__88282282_8",
             "oc": "7788"
+        },
+        "2": {
+            "fecha": "13/02/2026",
+            "cliente": "20-76778888-7",
+            "items": [
+                {
+                    "descripcion": "rueda de tromel",
+                    "cantidad": 4
+                }
+            ],
+            "transportista": "Jose Antonio Croce",
+            "cuit_jose": "20__88282282_8",
+            "oc": "7779999"
         }
     }
 }
