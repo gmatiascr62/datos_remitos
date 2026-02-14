@@ -12,6 +12,12 @@
             "direccion": "eeuu",
             "iva": "responsaenel",
             "lugar_entrega": "tesla inc"
+        },
+        "29-8777888-9": {
+            "nombre": "nasa",
+            "direccion": "hustin",
+            "iva": "responsabe insñcripto",
+            "lugar_entrega": "eeuu"
         }
     },
     "remitos": {
