@@ -1,5 +1,5 @@
 {
-    "ultimo_remito": 157,
+    "ultimo_remito": 158,
     "clientes": {
         "20-12345678-9": {
             "nombre": "Juan Pérez",
@@ -432,6 +432,19 @@
             "transportista": "Jose Antonio Croce",
             "cuit_jose": "20__88282282_8",
             "oc": "34499"
+        },
+        "158": {
+            "fecha": "13/02/2026",
+            "cliente": "20-99999999-6",
+            "items": [
+                {
+                    "descripcion": "eje",
+                    "cantidad": 3
+                }
+            ],
+            "transportista": "Jose Antonio Croce",
+            "cuit_jose": "20__88282282_8",
+            "oc": "877"
         }
     }
 }
