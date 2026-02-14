@@ -1,5 +1,5 @@
 {
-    "ultimo_remito": 145,
+    "ultimo_remito": 146,
     "clientes": {
         "20-12345678-9": {
             "nombre": "Juan Pérez",
@@ -292,6 +292,16 @@
                 {
                     "descripcion": "jjfjfjfjjrjr",
                     "cantidad": 2
+                }
+            ]
+        },
+        "146": {
+            "fecha": "13/02/2026",
+            "cliente": "20-29818847-6",
+            "items": [
+                {
+                    "descripcion": "aqwerrt",
+                    "cantidad": 5
                 }
             ]
         }
