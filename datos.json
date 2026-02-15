@@ -1,5 +1,5 @@
 {
-    "ultimo_remito": 507,
+    "ultimo_remito": 508,
     "clientes": {
         "20-76778888-7": {
             "nombre": "masa",
@@ -158,6 +158,23 @@
                 {
                     "cantidad": "15",
                     "descripcion": "Ejes"
+                }
+            ],
+            "transportista": "Jose Antonio Croce",
+            "cuit_jose": "20-12759849-6",
+            "oc": ""
+        },
+        "508": {
+            "fecha": "15/02/2026",
+            "cliente": "20-566777888-6",
+            "items": [
+                {
+                    "cantidad": "23",
+                    "descripcion": "Ejes"
+                },
+                {
+                    "cantidad": " ",
+                    "descripcion": "De madera"
                 }
             ],
             "transportista": "Jose Antonio Croce",
