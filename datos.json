@@ -1,0 +1,12 @@
+{
+    "ultimo_remito": 0,
+    "clientes": {
+        "30-50423240-5": {
+            "direccion": "Dardo Rocha 1037",
+            "iva": "Responsable Inscripto",
+            "lugar_entrega": "Dardo Rocha 1037",
+            "nombre": "Cristamine"
+        }
+    },
+    "remitos": {}
+}
