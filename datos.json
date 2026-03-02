@@ -1,5 +1,5 @@
 {
-    "ultimo_remito": 23,
+    "ultimo_remito": 24,
     "clientes": {
         "30-50423240-5": {
             "direccion": "Dardo Rocha 1037",
@@ -8,5 +8,19 @@
             "nombre": "Cristamine"
         }
     },
-    "remitos": {}
+    "remitos": {
+        "24": {
+            "cliente": "30-50423240-5",
+            "cuit_jose": "20-12759849-6",
+            "fecha": "02/03/2026",
+            "items": [
+                {
+                    "cantidad": 2,
+                    "descripcion": "ejes"
+                }
+            ],
+            "oc": "",
+            "transportista": "Jose Antonio Croce"
+        }
+    }
 }
