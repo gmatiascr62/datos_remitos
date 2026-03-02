@@ -1,5 +1,5 @@
 {
-    "ultimo_remito": 100,
+    "ultimo_remito": 101,
     "clientes": {
         "30-50423240-5": {
             "direccion": "Dardo Rocha 1037",
@@ -15,11 +15,11 @@
             "fecha": "02/03/2026",
             "items": [
                 {
-                    "cantidad": 1,
+                    "cantidad": 45,
                     "descripcion": "ruedas"
                 }
             ],
-            "oc": "",
+            "oc": "12121",
             "transportista": "Jose Antonio Croce"
         },
         "102": {
