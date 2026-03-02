@@ -1,5 +1,5 @@
 {
-    "ultimo_remito": 385,
+    "ultimo_remito": 386,
     "clientes": {
         "20-123477-8": {
             "direccion": "berazatgui",
@@ -122,6 +122,19 @@
             ],
             "oc": "76673",
             "transportista": "yo"
+        },
+        "386": {
+            "cliente": "20-123477-8",
+            "cuit_jose": "20-12759849-6",
+            "fecha": "01/03/2026",
+            "items": [
+                {
+                    "cantidad": 2,
+                    "descripcion": "eje de trommel de diametro 40mm"
+                }
+            ],
+            "oc": "",
+            "transportista": "Jose Antonio Croce"
         },
         "506": {
             "cliente": "29-8777888-9",
