@@ -1,5 +1,5 @@
 {
-    "ultimo_remito": 384,
+    "ultimo_remito": 385,
     "clientes": {
         "20-123477-8": {
             "direccion": "berazatgui",
@@ -105,6 +105,23 @@
             ],
             "oc": "77220099",
             "transportista": "Jose Antonio Croce"
+        },
+        "385": {
+            "cliente": "20-123477-8",
+            "cuit_jose": "2093939393",
+            "fecha": "01/03/2026",
+            "items": [
+                {
+                    "cantidad": 2,
+                    "descripcion": "ejes de camion"
+                },
+                {
+                    "cantidad": "",
+                    "descripcion": "de diametro de 40"
+                }
+            ],
+            "oc": "76673",
+            "transportista": "yo"
         },
         "506": {
             "cliente": "29-8777888-9",
