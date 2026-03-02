@@ -1,172 +1,141 @@
 {
     "ultimo_remito": 508,
     "clientes": {
-        "20-76778888-7": {
-            "nombre": "masa",
-            "direccion": "huston",
+        "20-123477-8": {
+            "direccion": "berazatgui",
             "iva": "resp",
-            "lugar_entrega": "eeuu"
-        },
-        "34-6777777-8": {
-            "nombre": "tewla",
-            "direccion": "eeuu",
-            "iva": "responsaenel",
-            "lugar_entrega": "tesla inc"
-        },
-        "29-8777888-9": {
-            "nombre": "nasa",
-            "direccion": "hustin",
-            "iva": "responsabe insñcripto",
-            "lugar_entrega": "eeuu"
+            "lugar_entrega": "deñosito",
+            "nombre": "cocacola"
         },
         "20-566777888-6": {
-            "nombre": "Zucamor",
             "direccion": "Antártida ",
             "iva": "Responsable inscripto ",
-            "lugar_entrega": "Antártida "
+            "lugar_entrega": "Antártida ",
+            "nombre": "Zucamor"
+        },
+        "20-76778888-7": {
+            "direccion": "huston",
+            "iva": "resp",
+            "lugar_entrega": "eeuu",
+            "nombre": "masa"
+        },
+        "29-8777888-9": {
+            "direccion": "hustin",
+            "iva": "responsabe insñcripto",
+            "lugar_entrega": "eeuu",
+            "nombre": "nasa"
+        },
+        "34-6777777-8": {
+            "direccion": "eeuu",
+            "iva": "responsaenel",
+            "lugar_entrega": "tesla inc",
+            "nombre": "tewla"
         }
     },
     "remitos": {
         "1": {
-            "fecha": "13/02/2026",
             "cliente": "20-76778888-7",
-            "items": [
-                {
-                    "descripcion": "eje",
-                    "cantidad": 2
-                }
-            ],
-            "transportista": "Jose Antonio Croce",
             "cuit_jose": "20__88282282_8",
-            "oc": "7788"
-        },
-        "2": {
             "fecha": "13/02/2026",
-            "cliente": "20-76778888-7",
             "items": [
                 {
-                    "descripcion": "rueda de tromel",
-                    "cantidad": 4
+                    "cantidad": 2,
+                    "descripcion": "eje"
                 }
             ],
-            "transportista": "Jose Antonio Croce",
-            "cuit_jose": "20__88282282_8",
-            "oc": "7779999"
-        },
-        "3": {
-            "fecha": "13/02/2026",
-            "cliente": "34-6777777-8",
-            "items": [
-                {
-                    "descripcion": "eje re copada",
-                    "cantidad": 34
-                },
-                {
-                    "descripcion": "ruediras",
-                    "cantidad": 2
-                },
-                {
-                    "descripcion": "patiras",
-                    "cantidad": 23
-                }
-            ],
-            "transportista": "Jose Antonio Croce",
-            "cuit_jose": "20__88282282_8",
-            "oc": "77220099"
-        },
-        "655": {
-            "fecha": "13/02/2026",
-            "cliente": "20-76778888-7",
-            "items": [
-                {
-                    "descripcion": "tornillos",
-                    "cantidad": 3
-                },
-                {
-                    "descripcion": "tapones de platsico",
-                    "cantidad": 877
-                }
-            ],
-            "transportista": "Jose Antonio Croce",
-            "cuit_jose": "20__88282282_8",
-            "oc": "76"
-        },
-        "656": {
-            "fecha": "14/02/2026",
-            "cliente": "29-8777888-9",
-            "items": [
-                {
-                    "descripcion": "ejes",
-                    "cantidad": 2
-                },
-                {
-                    "descripcion": "ruedas",
-                    "cantidad": 4
-                },
-                {
-                    "descripcion": "de acero interiro 6 mm",
-                    "cantidad": ""
-                }
-            ],
-            "transportista": "Jose Antonio Croce",
-            "cuit_jose": "20__88282282_8",
-            "oc": "654"
+            "oc": "7788",
+            "transportista": "Jose Antonio Croce"
         },
         "101": {
-            "fecha": "15/02/2026",
             "cliente": "20-566777888-6",
+            "cuit_jose": "20-12759849-6",
+            "fecha": "15/02/2026",
             "items": [
                 {
                     "cantidad": "23",
                     "descripcion": "Eje"
                 }
             ],
-            "transportista": "Jose Antonio Croce",
-            "cuit_jose": "20-12759849-6",
-            "oc": "3445"
+            "oc": "3445",
+            "transportista": "Jose Antonio Croce"
         },
         "102": {
-            "fecha": "15/02/2026",
             "cliente": "20-566777888-6",
+            "cuit_jose": "20-12759849-6",
+            "fecha": "15/02/2026",
             "items": [
                 {
                     "cantidad": "2",
                     "descripcion": "Ekes"
                 }
             ],
-            "transportista": "Jose Antonio Croce",
-            "cuit_jose": "20-12759849-6",
-            "oc": "999"
+            "oc": "999",
+            "transportista": "Jose Antonio Croce"
+        },
+        "2": {
+            "cliente": "20-76778888-7",
+            "cuit_jose": "20__88282282_8",
+            "fecha": "13/02/2026",
+            "items": [
+                {
+                    "cantidad": 4,
+                    "descripcion": "rueda de tromel"
+                }
+            ],
+            "oc": "7779999",
+            "transportista": "Jose Antonio Croce"
+        },
+        "3": {
+            "cliente": "34-6777777-8",
+            "cuit_jose": "20__88282282_8",
+            "fecha": "13/02/2026",
+            "items": [
+                {
+                    "cantidad": 34,
+                    "descripcion": "eje re copada"
+                },
+                {
+                    "cantidad": 2,
+                    "descripcion": "ruediras"
+                },
+                {
+                    "cantidad": 23,
+                    "descripcion": "patiras"
+                }
+            ],
+            "oc": "77220099",
+            "transportista": "Jose Antonio Croce"
         },
         "506": {
-            "fecha": "15/02/2026",
             "cliente": "29-8777888-9",
+            "cuit_jose": "20-12759849-6",
+            "fecha": "15/02/2026",
             "items": [
                 {
                     "cantidad": "2",
                     "descripcion": "Cosas"
                 }
             ],
-            "transportista": "Jose Antonio Croce",
-            "cuit_jose": "20-12759849-6",
-            "oc": ""
+            "oc": "",
+            "transportista": "Jose Antonio Croce"
         },
         "507": {
-            "fecha": "15/02/2026",
             "cliente": "29-8777888-9",
+            "cuit_jose": "20-12759849-6",
+            "fecha": "15/02/2026",
             "items": [
                 {
                     "cantidad": "15",
                     "descripcion": "Ejes"
                 }
             ],
-            "transportista": "Jose Antonio Croce",
-            "cuit_jose": "20-12759849-6",
-            "oc": ""
+            "oc": "",
+            "transportista": "Jose Antonio Croce"
         },
         "508": {
-            "fecha": "15/02/2026",
             "cliente": "20-566777888-6",
+            "cuit_jose": "20-12759849-6",
+            "fecha": "15/02/2026",
             "items": [
                 {
                     "cantidad": "23",
@@ -177,9 +146,46 @@
                     "descripcion": "De madera"
                 }
             ],
-            "transportista": "Jose Antonio Croce",
-            "cuit_jose": "20-12759849-6",
-            "oc": ""
+            "oc": "",
+            "transportista": "Jose Antonio Croce"
+        },
+        "655": {
+            "cliente": "20-76778888-7",
+            "cuit_jose": "20__88282282_8",
+            "fecha": "13/02/2026",
+            "items": [
+                {
+                    "cantidad": 3,
+                    "descripcion": "tornillos"
+                },
+                {
+                    "cantidad": 877,
+                    "descripcion": "tapones de platsico"
+                }
+            ],
+            "oc": "76",
+            "transportista": "Jose Antonio Croce"
+        },
+        "656": {
+            "cliente": "29-8777888-9",
+            "cuit_jose": "20__88282282_8",
+            "fecha": "14/02/2026",
+            "items": [
+                {
+                    "cantidad": 2,
+                    "descripcion": "ejes"
+                },
+                {
+                    "cantidad": 4,
+                    "descripcion": "ruedas"
+                },
+                {
+                    "cantidad": "",
+                    "descripcion": "de acero interiro 6 mm"
+                }
+            ],
+            "oc": "654",
+            "transportista": "Jose Antonio Croce"
         }
     }
 }
